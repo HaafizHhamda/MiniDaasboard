@@ -26,9 +26,9 @@ Selama 1 tahun terakhir, sebuah coffee shop telah mencatat data transaksi penjua
 ---
 
 ## 3. Data
-**Sumber:** listing Rumah123 (filter lokasi: Bekasi)
+**Sumber:** Kaggle Dataset
 
-**Kolom yang direkomendasikan untuk diambil / yang diharapkan di `rumah_bekasi.csv`:**
+**Kolom Dataset`:**
 - `transaksi_date` 
 - `transaksi_time`
 - `product_name`
@@ -42,7 +42,7 @@ Selama 1 tahun terakhir, sebuah coffee shop telah mencatat data transaksi penjua
 
 ## 4. Metode / Alur Pengerjaan
 1. **Data Preparation**
-2. **Aggreration**: Baca csv ke pandas DataFrame.
+2. **Aggreration**
 3. **Visualisasi**
 4. **Insight**
 5. **Dasboard**
