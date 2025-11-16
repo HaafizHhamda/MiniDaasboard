@@ -55,7 +55,18 @@ Contoh paket Python:
 - **Matplotlib**
 - **Tablue**
 ---
+##  Visualisasi Dashboard Tableau
 
+**Dashboard Tableau:**  
+[ Lihat Dashboard di Tableau Public](https://public.tableau.com/views/PenjualanKopi/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+
+**Komponen Dashboard:**
+-  **Bar Chart** 
+-  **Line Chart** 
+-  **Pie Chart**      
+
+---
 
 
 
