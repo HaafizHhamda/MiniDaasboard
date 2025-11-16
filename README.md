@@ -8,9 +8,6 @@
 3. Data
 4. Metode / Alur Pengerjaan
 5. Environment 
-6. Langkah Teknis (kode contoh)
-7. Analisis & Statistik
-8. Hasil yang Diharapkan 
 
 ---
 
